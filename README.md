@@ -4,13 +4,13 @@
 
 📘 Summary: A detailed overview of modern mobile operating systems, their key features, security concerns, and pros/cons.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 What is a Mobile Operating System?
-
-A Mobile OS manages smartphones, tablets, and wearable devices, enabling them to run apps, manage memory, control networks, and provide user-friendly interfaces. Examples include Android, iOS, and HarmonyOS.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A Mobile OS manages smartphones, tablets, and wearable devices, enabling them to run apps, manage memory, control networks, and provide user-friendly interfaces. Examples include Android, iOS, and HarmonyOS.
+
 
 🔑 Key Features
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 User Interface – Optimized for touch (swipe, tap, pinch).
 
 Multitasking – Run and switch between multiple apps seamlessly.
@@ -35,8 +35,8 @@ Resource Management – Balances CPU, RAM, and battery efficiently.
 | **PureOS**        | Open Source        | FSF-endorsed, tailored for Librem 5.                                               |
 | **postmarketOS**  | Open Source        | Alpine Linux base, runs on old phones.                                             |
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔒 Security Focus
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Each OS is analyzed for recent vulnerabilities (2024–2025), including:
 
 Android: CVE-2015-3864, CVE-2025-27363
@@ -59,7 +59,7 @@ Each OS is listed with:
 
 ❌ Disadvantages such as limited device support, sparse app ecosystems, or user complexity
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🧾 Final Comparison Table
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A detailed table compares:
@@ -83,4 +83,4 @@ User skill requirements
 🙏 Thank You
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This comparison helps users and developers choose the right mobile OS based on security, performance, flexibility, and support.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
