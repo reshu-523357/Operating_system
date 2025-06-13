@@ -3,11 +3,13 @@
 📄 Author: Shaik Reshma 
 
 📘 Summary: A detailed overview of modern mobile operating systems, their key features, security concerns, and pros/cons.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 What is a Mobile Operating System?
 
 A Mobile OS manages smartphones, tablets, and wearable devices, enabling them to run apps, manage memory, control networks, and provide user-friendly interfaces. Examples include Android, iOS, and HarmonyOS.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🔑 Key Features
 User Interface – Optimized for touch (swipe, tap, pinch).
 
@@ -48,14 +50,15 @@ Ubuntu Touch: CVE-2025-3887, CVE-2025-4664
 Others: Kernel-level and open-source library exploits
 
 Mitigation steps such as secure boot, app sandboxing, and regular patches are emphasized.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-✅ Pros & ❌ Cons Highlights
 
+✅ Pros & ❌ Cons Highlights
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Each OS is listed with:
 
 ✅ Advantages like privacy, customization, and convergence
 
 ❌ Disadvantages such as limited device support, sparse app ecosystems, or user complexity
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧾 Final Comparison Table
 
