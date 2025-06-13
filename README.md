@@ -1,7 +1,6 @@
 # 📱 Comparison of Mobile Operating Systems
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/9d6a274f-c55c-4f4d-a45a-59cee5c72367)
 
 📄 Author: Shaik Reshma 
 
