@@ -4,6 +4,7 @@
 
 📘 Summary: A detailed overview of modern mobile operating systems, their key features, security concerns, and pros/cons.
 
+
 🧠 What is a Mobile Operating System?
 
 A Mobile OS manages smartphones, tablets, and wearable devices, enabling them to run apps, manage memory, control networks, and provide user-friendly interfaces. Examples include Android, iOS, and HarmonyOS.
