@@ -18,7 +18,8 @@ Connectivity – Includes Wi-Fi, Bluetooth, NFC, etc.
 Application Management – Access to native app stores.
 
 Resource Management – Balances CPU, RAM, and battery efficiently.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 | OS Name           | Type               | Highlights                                                                         |
 | ----------------- | ------------------ | ---------------------------------------------------------------------------------- |
 | **Android OS**    | Open Source        | Widely used, customizable, but has security flaws like Stagefright & Certifi-gate. |
@@ -31,4 +32,51 @@ Resource Management – Balances CPU, RAM, and battery efficiently.
 | **Plasma Mobile** | Open Source        | KDE UI, highly customizable.                                                       |
 | **PureOS**        | Open Source        | FSF-endorsed, tailored for Librem 5.                                               |
 | **postmarketOS**  | Open Source        | Alpine Linux base, runs on old phones.                                             |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔒 Security Focus
+Each OS is analyzed for recent vulnerabilities (2024–2025), including:
+
+Android: CVE-2015-3864, CVE-2025-27363
+
+iOS: CVE-2025-31200
+
+GrapheneOS: CVE-2024-53104, CVE-2024-53197
+
+Ubuntu Touch: CVE-2025-3887, CVE-2025-4664
+
+Others: Kernel-level and open-source library exploits
+
+Mitigation steps such as secure boot, app sandboxing, and regular patches are emphasized.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✅ Pros & ❌ Cons Highlights
+
+Each OS is listed with:
+
+✅ Advantages like privacy, customization, and convergence
+
+❌ Disadvantages such as limited device support, sparse app ecosystems, or user complexity
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🧾 Final Comparison Table
+
+A detailed table compares:
+
+OS type
+
+Kernel used
+
+Security/privacy levels
+
+App ecosystem
+
+Android compatibility
+
+Convergence support
+
+Hardware/device support
+
+User skill requirements
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🙏 Thank You
+This comparison helps users and developers choose the right mobile OS based on security, performance, flexibility, and support.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
